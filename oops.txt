@@ -1,0 +1,66 @@
+OOPs 
+object  oriented programming language  or system
+c- procedural oriented language 
+Its a builtin function and methods and properties 
+
+string easy concat 
+Tamilarasan+kumar
+Tamilarasankumar
+
+1.object
+2.class
+3.Inheritance
+4.Encapsulation
+5.Polymorphism
+6.Abstraction
+1.object
+Real world Entity
+We can see the everything in life
+for Ex fan is a object
+Behaviour and state  
+3 wings ,clockwise rotate ,switch
+2.class
+
+collection of object
+3.Inheritance
+using parent class and child class 
+Using super class to accessing the sub Class
+Types
+1.single inheritance
+2.multilevel inheritance
+3.Multiple inheritance
+4.Hierarchical Inheritance
+
+SYntax
+java :extends keyword
+
+class A:
+Class B(A):
+inherited class 
+Encapsulation:
+REal Ex
+CApsule tablet
+wrapping the code to the single data 
+
+Polymorphism:
+real ex birds
+pigeaon
+parraot
+cockatail
+Love birds 
+same name but different properties
+class A
+name
+sound
+class 
+name
+sound 
+
+Abstraction:
+Blue print class 
+it a dummy class 
+showing the functionality not a implementation
+from abc import ABC
+Abstract class does not create ah object
+normal class to create an object 
+
